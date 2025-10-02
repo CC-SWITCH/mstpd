@@ -1,3 +1,5 @@
+# !This repository is read-only. No code changes are allowed!
+
 mstpd: Multiple Spanning Tree Protocol Daemon
 =============================================
 
